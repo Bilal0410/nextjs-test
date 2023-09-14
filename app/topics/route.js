@@ -1,3 +1,4 @@
+"use client"
 import { NextResponse} from "Next/server";
 
 const fooSet = new Set();
